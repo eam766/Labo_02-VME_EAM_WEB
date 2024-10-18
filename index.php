@@ -17,6 +17,7 @@
                 <p>Typewriter brunch flannel copper mug, viral crucifix yr +1 gluten-free pug ethical lomo williamsburg. Quinoa coloring book DSA, big mood vape polaroid readymade. Migas jean shorts la croix, af chartreuse farm-to-table wolf squid tilde direct trade aesthetic. Retro PBR&B tumblr palo santo twee succulents fixie shoreditch chicharrones pabst.</p>
             </div>
         </div>
+        <div class="carrouselContainer">
         <div class="carrousel">
             <img src="img/produits/tieX.webp" alt="cravate licorne">
             <img src="img/produits/tshirt1.webp" alt="t-shirt licorne">
@@ -30,6 +31,13 @@
             <img src="img/produits/tshirt1.webp" alt="t-shirt licorne">
             <img src="img/produits/tshirt4.webp" alt="t-shirt landscape">
             <img src="img/produits/tie5.webp" alt="cravate a motifs">
+            <img src="img/produits/tshirt4.webp" alt="t-shirt landscape">
+            <img src="img/produits/tie5.webp" alt="cravate a motifs">
+            <img src="img/produits/tie5.webp" alt="cravate a motifs">
+            <img src="img/produits/tshirt4.webp" alt="t-shirt landscape">
+            <img src="img/produits/tie5.webp" alt="cravate a motifs">
+            <img src="img/produits/tie5.webp" alt="cravate a motifs">
+        </div>
         </div>
         <div class="summerCollection">
             <p>Lookbook Été 2024</p>
